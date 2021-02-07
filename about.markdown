@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello friend and welcome to my personal project playground! :)
+This blog mainly serves me as a documentation platform to figureout what notions brought me to build certain projects.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Since I am very much interested in web automation, this blog will mainly deal about such topics. But as we are all interested in cool new technologies, programming languages and awesome memes, I won't limit myself to certain topics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Just want to learn new things and try to evolve over time.
+
+...oh and please don't get disturbed by any werid looking ":w" within the text...this is because of vim and my bad that I yet another time forgot to escape the INSERT mode ;P 
+
+[chickenshifu's github](https://github.com/chickenshifu)
 
 
-[jekyll-organization]: https://github.com/jekyll
+![chickenshifu](https://media.giphy.com/media/dDhTr3D2Cwg5G/giphy.gif)
+
+
+
+:w 
+
+
+
+
